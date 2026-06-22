@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+[![Repository](https://img.shields.io/badge/Repo-GitHub-181717?logo=github)](https://github.com/kenny-4111/AI-tutor)
+
 ## Getting Started
 
 First, run the development server:
